@@ -1,0 +1,9 @@
+
+/.vs
+*.csproj
+2D_Practice.sln
+.vsconfig
+/Library
+/obj
+/Logs
+/UserSettings
